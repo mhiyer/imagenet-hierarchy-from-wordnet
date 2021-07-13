@@ -1,0 +1,1001 @@
+ID	Category	Supercategory
+n01440764	tench, Tinca tinca	cyprinid, cyprinid fish
+n01443537	goldfish, Carassius auratus	cyprinid, cyprinid fish
+n01484850	great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias	mackerel shark
+n01491361	tiger shark, Galeocerdo cuvieri	requiem shark
+n01494475	hammerhead, hammerhead shark	shark
+n01496331	electric ray, crampfish, numbfish, torpedo	ray
+n01498041	stingray	ray
+n01514668	cock	bird
+n01514859	hen	bird
+n01518878	ostrich, Struthio camelus	ratite, ratite bird, flightless bird
+n01530575	brambling, Fringilla montifringilla	finch
+n01531178	goldfinch, Carduelis carduelis	finch
+n01532829	house finch, linnet, Carpodacus mexicanus	finch
+n01534433	junco, snowbird	finch
+n01537544	indigo bunting, indigo finch, indigo bird, Passerina cyanea	bunting
+n01558993	robin, American robin, Turdus migratorius	thrush
+n01560419	bulbul	nightingale, Luscinia megarhynchos
+n01580077	jay	corvine bird
+n01582220	magpie	corvine bird
+n01592084	chickadee	titmouse, tit
+n01601694	water ouzel, dipper	oscine, oscine bird
+n01608432	kite	hawk
+n01614925	bald eagle, American eagle, Haliaeetus leucocephalus	eagle, bird of Jove
+n01616318	vulture	bird of prey, raptor, raptorial bird
+n01622779	great grey owl, great gray owl, Strix nebulosa	owl, bird of Minerva, bird of night, hooter
+n01629819	European fire salamander, Salamandra salamandra	salamander
+n01630670	common newt, Triturus vulgaris	newt, triton
+n01631663	eft	newt, triton
+n01632458	spotted salamander, Ambystoma maculatum	ambystomid, ambystomid salamander
+n01632777	axolotl, mud puppy, Ambystoma mexicanum	ambystomid, ambystomid salamander
+n01641577	bullfrog, Rana catesbeiana	true frog, ranid
+n01644373	tree frog, tree-frog	frog, toad, toad frog, anuran, batrachian, salientian
+n01644900	tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui	frog, toad, toad frog, anuran, batrachian, salientian
+n01664065	loggerhead, loggerhead turtle, Caretta caretta	sea turtle, marine turtle
+n01665541	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	sea turtle, marine turtle
+n01667114	mud turtle	turtle
+n01667778	terrapin	turtle
+n01669191	box turtle, box tortoise	turtle
+n01675722	banded gecko	gecko
+n01677366	common iguana, iguana, Iguana iguana	iguanid, iguanid lizard
+n01682714	American chameleon, anole, Anolis carolinensis	iguanid, iguanid lizard
+n01685808	whiptail, whiptail lizard	teiid lizard, teiid
+n01687978	agama	agamid, agamid lizard
+n01688243	frilled lizard, Chlamydosaurus kingi	agamid, agamid lizard
+n01689811	alligator lizard	anguid lizard
+n01692333	Gila monster, Heloderma suspectum	venomous lizard
+n01693334	green lizard, Lacerta viridis	lacertid lizard, lacertid
+n01694178	African chameleon, Chamaeleo chamaeleon	chameleon, chamaeleon
+n01695060	Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis	monitor, monitor lizard, varan
+n01697457	African crocodile, Nile crocodile, Crocodylus niloticus	crocodile
+n01698640	American alligator, Alligator mississipiensis	alligator, gator
+n01704323	triceratops	ceratopsian, horned dinosaur
+n01728572	thunder snake, worm snake, Carphophis amoenus	colubrid snake, colubrid
+n01728920	ringneck snake, ring-necked snake, ring snake	colubrid snake, colubrid
+n01729322	hognose snake, puff adder, sand viper	colubrid snake, colubrid
+n01729977	green snake, grass snake	colubrid snake, colubrid
+n01734418	king snake, kingsnake	colubrid snake, colubrid
+n01735189	garter snake, grass snake	colubrid snake, colubrid
+n01737021	water snake	colubrid snake, colubrid
+n01739381	vine snake	colubrid snake, colubrid
+n01740131	night snake, Hypsiglena torquata	colubrid snake, colubrid
+n01742172	boa constrictor, Constrictor constrictor	boa
+n01744401	rock python, rock snake, Python sebae	python
+n01748264	Indian cobra, Naja naja	cobra
+n01749939	green mamba	black mamba, Dendroaspis augusticeps
+n01751748	sea snake	snake, serpent, ophidian
+n01753488	horned viper, cerastes, sand viper, horned asp, Cerastes cornutus	viper
+n01755581	diamondback, diamondback rattlesnake, Crotalus adamanteus	rattlesnake, rattler
+n01756291	sidewinder, horned rattlesnake, Crotalus cerastes	rattlesnake, rattler
+n01768244	trilobite	arthropod
+n01770081	harvestman, daddy longlegs, Phalangium opilio	arachnid, arachnoid
+n01770393	scorpion	arachnid, arachnoid
+n01773157	black and gold garden spider, Argiope aurantia	spider
+n01773549	barn spider, Araneus cavaticus	spider
+n01773797	garden spider, Aranea diademata	spider
+n01774384	black widow, Latrodectus mactans	spider
+n01774750	tarantula	spider
+n01775062	wolf spider, hunting spider	spider
+n01776313	tick	acarine
+n01784675	centipede	arthropod
+n01795545	black grouse	grouse
+n01796340	ptarmigan	grouse
+n01797886	ruffed grouse, partridge, Bonasa umbellus	grouse
+n01798484	prairie chicken, prairie grouse, prairie fowl	grouse
+n01806143	peacock	peafowl, bird of Juno
+n01806567	quail	phasianid
+n01807496	partridge	phasianid
+n01817953	African grey, African gray, Psittacus erithacus	parrot
+n01818515	macaw	parrot
+n01819313	sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita	cockatoo
+n01820546	lorikeet	lory
+n01824575	coucal	cuckoo
+n01828970	bee eater	coraciiform bird
+n01829413	hornbill	coraciiform bird
+n01833805	hummingbird	apodiform bird
+n01843065	jacamar	piciform bird
+n01843383	toucan	piciform bird
+n01847000	drake	duck
+n01855032	red-breasted merganser, Mergus serrator	merganser, fish duck, sawbill, sheldrake
+n01855672	goose	anseriform bird
+n01860187	black swan, Cygnus atratus	swan
+n01871265	tusker	mammal, mammalian
+n01872401	echidna, spiny anteater, anteater	monotreme, egg-laying mammal
+n01873310	platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus	monotreme, egg-laying mammal
+n01877812	wallaby, brush kangaroo	kangaroo
+n01882714	koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus	phalanger, opossum, possum
+n01883070	wombat	marsupial, pouched mammal
+n01910747	jellyfish	coelenterate, cnidarian
+n01914609	sea anemone, anemone	anthozoan, actinozoan
+n01917289	brain coral	stony coral, madrepore, madriporian coral
+n01924916	flatworm, platyhelminth	worm
+n01930112	nematode, nematode worm, roundworm	worm
+n01943899	conch	gastropod, univalve
+n01944390	snail	gastropod, univalve
+n01945685	slug	gastropod, univalve
+n01950731	sea slug, nudibranch	gastropod, univalve
+n01955084	chiton, coat-of-mail shell, sea cradle, polyplacophore	mollusk, mollusc, shellfish
+n01968897	chambered nautilus, pearly nautilus, nautilus	cephalopod, cephalopod mollusk
+n01978287	Dungeness crab, Cancer magister	crab
+n01978455	rock crab, Cancer irroratus	crab
+n01980166	fiddler crab	crab
+n01981276	king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica	crab
+n01983481	American lobster, Northern lobster, Maine lobster, Homarus americanus	true lobster
+n01984695	spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish	lobster
+n01985128	crayfish, crawfish, crawdad, crawdaddy	decapod crustacean, decapod
+n01986214	hermit crab	decapod crustacean, decapod
+n01990800	isopod	malacostracan crustacean
+n02002556	white stork, Ciconia ciconia	stork
+n02002724	black stork, Ciconia nigra	stork
+n02006656	spoonbill	wading bird, wader
+n02007558	flamingo	wading bird, wader
+n02009229	little blue heron, Egretta caerulea	heron
+n02009912	American egret, great white heron, Egretta albus	egret
+n02011460	bittern	heron
+n02012849	crane	wading bird, wader
+n02013706	limpkin, Aramus pictus	wading bird, wader
+n02017213	European gallinule, Porphyrio porphyrio	purple gallinule
+n02018207	American coot, marsh hen, mud hen, water hen, Fulica americana	coot
+n02018795	bustard	wading bird, wader
+n02025239	ruddy turnstone, Arenaria interpres	turnstone
+n02027492	red-backed sandpiper, dunlin, Erolia alpina	sandpiper
+n02028035	redshank, Tringa totanus	sandpiper
+n02033041	dowitcher	snipe
+n02037110	oystercatcher, oyster catcher	shorebird, shore bird, limicoline bird
+n02051845	pelican	pelecaniform seabird
+n02056570	king penguin, Aptenodytes patagonica	penguin
+n02058221	albatross, mollymawk	pelagic bird, oceanic bird
+n02066245	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	baleen whale, whalebone whale
+n02071294	killer whale, killer, orca, grampus, sea wolf, Orcinus orca	dolphin
+n02074367	dugong, Dugong dugon	sea cow, sirenian mammal, sirenian
+n02077923	sea lion	eared seal
+n02085620	Chihuahua	toy dog, toy
+n02085782	Japanese spaniel	toy dog, toy
+n02085936	Maltese dog, Maltese terrier, Maltese	toy dog, toy
+n02086079	Pekinese, Pekingese, Peke	toy dog, toy
+n02086240	Shih-Tzu	toy dog, toy
+n02086646	Blenheim spaniel	English toy spaniel
+n02086910	papillon	toy spaniel
+n02087046	toy terrier	toy dog, toy
+n02087394	Rhodesian ridgeback	hunting dog
+n02088094	Afghan hound, Afghan	hound, hound dog
+n02088238	basset, basset hound	hound, hound dog
+n02088364	beagle	hound, hound dog
+n02088466	bloodhound, sleuthhound	hound, hound dog
+n02088632	bluetick	hound, hound dog
+n02089078	black-and-tan coonhound	coonhound
+n02089867	Walker hound, Walker foxhound	foxhound
+n02089973	English foxhound	foxhound
+n02090379	redbone	hound, hound dog
+n02090622	borzoi, Russian wolfhound	wolfhound
+n02090721	Irish wolfhound	wolfhound
+n02091032	Italian greyhound	greyhound
+n02091134	whippet	greyhound
+n02091244	Ibizan hound, Ibizan Podenco	hound, hound dog
+n02091467	Norwegian elkhound, elkhound	hound, hound dog
+n02091635	otterhound, otter hound	hound, hound dog
+n02091831	Saluki, gazelle hound	hound, hound dog
+n02092002	Scottish deerhound, deerhound	hound, hound dog
+n02092339	Weimaraner	hound, hound dog
+n02093256	Staffordshire bullterrier, Staffordshire bull terrier	bullterrier, bull terrier
+n02093428	American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier	bullterrier, bull terrier
+n02093647	Bedlington terrier	terrier
+n02093754	Border terrier	terrier
+n02093859	Kerry blue terrier	terrier
+n02093991	Irish terrier	terrier
+n02094114	Norfolk terrier	terrier
+n02094258	Norwich terrier	terrier
+n02094433	Yorkshire terrier	terrier
+n02095314	wire-haired fox terrier	fox terrier
+n02095570	Lakeland terrier	wirehair, wirehaired terrier, wire-haired terrier
+n02095889	Sealyham terrier, Sealyham	Welsh terrier
+n02096051	Airedale, Airedale terrier	terrier
+n02096177	cairn, cairn terrier	terrier
+n02096294	Australian terrier	terrier
+n02096437	Dandie Dinmont, Dandie Dinmont terrier	terrier
+n02096585	Boston bull, Boston terrier	terrier
+n02097047	miniature schnauzer	schnauzer
+n02097130	giant schnauzer	schnauzer
+n02097209	standard schnauzer	schnauzer
+n02097298	Scotch terrier, Scottish terrier, Scottie	terrier
+n02097474	Tibetan terrier, chrysanthemum dog	terrier
+n02097658	silky terrier, Sydney silky	terrier
+n02098105	soft-coated wheaten terrier	terrier
+n02098286	West Highland white terrier	terrier
+n02098413	Lhasa, Lhasa apso	terrier
+n02099267	flat-coated retriever	retriever
+n02099429	curly-coated retriever	retriever
+n02099601	golden retriever	retriever
+n02099712	Labrador retriever	retriever
+n02099849	Chesapeake Bay retriever	retriever
+n02100236	German short-haired pointer	pointer, Spanish pointer
+n02100583	vizsla, Hungarian pointer	pointer, Spanish pointer
+n02100735	English setter	setter
+n02100877	Irish setter, red setter	setter
+n02101006	Gordon setter	setter
+n02101388	Brittany spaniel	spaniel
+n02101556	clumber, clumber spaniel	spaniel
+n02102040	English springer, English springer spaniel	springer spaniel, springer
+n02102177	Welsh springer spaniel	springer spaniel, springer
+n02102318	cocker spaniel, English cocker spaniel, cocker	spaniel
+n02102480	Sussex spaniel	spaniel
+n02102973	Irish water spaniel	water spaniel
+n02104029	kuvasz	watchdog, guard dog
+n02104365	schipperke	watchdog, guard dog
+n02105056	groenendael	Belgian sheepdog, Belgian shepherd
+n02105162	malinois	Belgian sheepdog, Belgian shepherd
+n02105251	briard	shepherd dog, sheepdog, sheep dog
+n02105412	kelpie	shepherd dog, sheepdog, sheep dog
+n02105505	komondor	shepherd dog, sheepdog, sheep dog
+n02105641	Old English sheepdog, bobtail	shepherd dog, sheepdog, sheep dog
+n02105855	Shetland sheepdog, Shetland sheep dog, Shetland	shepherd dog, sheepdog, sheep dog
+n02106030	collie	shepherd dog, sheepdog, sheep dog
+n02106166	Border collie	shepherd dog, sheepdog, sheep dog
+n02106382	Bouvier des Flandres, Bouviers des Flandres	shepherd dog, sheepdog, sheep dog
+n02106550	Rottweiler	shepherd dog, sheepdog, sheep dog
+n02106662	German shepherd, German shepherd dog, German police dog, alsatian	shepherd dog, sheepdog, sheep dog
+n02107142	Doberman, Doberman pinscher	pinscher
+n02107312	miniature pinscher	pinscher
+n02107574	Greater Swiss Mountain dog	Sennenhunde
+n02107683	Bernese mountain dog	Sennenhunde
+n02107908	Appenzeller	Sennenhunde
+n02108000	EntleBucher	Sennenhunde
+n02108089	boxer	working dog
+n02108422	bull mastiff	working dog
+n02108551	Tibetan mastiff	mastiff
+n02108915	French bulldog	bulldog, English bulldog
+n02109047	Great Dane	working dog
+n02109525	Saint Bernard, St Bernard	working dog
+n02109961	Eskimo dog, husky	working dog
+n02110063	malamute, malemute, Alaskan malamute	sled dog, sledge dog
+n02110185	Siberian husky	sled dog, sledge dog
+n02110341	dalmatian, coach dog, carriage dog	dog, domestic dog, Canis familiaris
+n02110627	affenpinscher, monkey pinscher, monkey dog	pinscher
+n02110806	basenji	dog, domestic dog, Canis familiaris
+n02110958	pug, pug-dog	dog, domestic dog, Canis familiaris
+n02111129	Leonberg	dog, domestic dog, Canis familiaris
+n02111277	Newfoundland, Newfoundland dog	dog, domestic dog, Canis familiaris
+n02111500	Great Pyrenees	dog, domestic dog, Canis familiaris
+n02111889	Samoyed, Samoyede	spitz
+n02112018	Pomeranian	spitz
+n02112137	chow, chow chow	spitz
+n02112350	keeshond	spitz
+n02112706	Brabancon griffon	griffon, Brussels griffon, Belgian griffon
+n02113023	Pembroke, Pembroke Welsh corgi	corgi, Welsh corgi
+n02113186	Cardigan, Cardigan Welsh corgi	corgi, Welsh corgi
+n02113624	toy poodle	poodle, poodle dog
+n02113712	miniature poodle	poodle, poodle dog
+n02113799	standard poodle	poodle, poodle dog
+n02113978	Mexican hairless	dog, domestic dog, Canis familiaris
+n02114367	timber wolf, grey wolf, gray wolf, Canis lupus	wolf
+n02114548	white wolf, Arctic wolf, Canis lupus tundrarum	wolf
+n02114712	red wolf, maned wolf, Canis rufus, Canis niger	wolf
+n02114855	coyote, prairie wolf, brush wolf, Canis latrans	wolf
+n02115641	dingo, warrigal, warragal, Canis dingo	wild dog
+n02115913	dhole, Cuon alpinus	wild dog
+n02116738	African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus	wild dog
+n02117135	hyena, hyaena	canine, canid
+n02119022	red fox, Vulpes vulpes	fox
+n02119789	kit fox, Vulpes macrotis	fox
+n02120079	Arctic fox, white fox, Alopex lagopus	fox
+n02120505	grey fox, gray fox, Urocyon cinereoargenteus	fox
+n02123045	tabby, tabby cat	domestic cat, house cat, Felis domesticus, Felis catus
+n02123159	tiger cat	domestic cat, house cat, Felis domesticus, Felis catus
+n02123394	Persian cat	domestic cat, house cat, Felis domesticus, Felis catus
+n02123597	Siamese cat, Siamese	domestic cat, house cat, Felis domesticus, Felis catus
+n02124075	Egyptian cat	domestic cat, house cat, Felis domesticus, Felis catus
+n02125311	cougar, puma, catamount, mountain lion, painter, panther, Felis concolor	wildcat
+n02127052	lynx, catamount	wildcat
+n02128385	leopard, Panthera pardus	big cat, cat
+n02128757	snow leopard, ounce, Panthera uncia	big cat, cat
+n02128925	jaguar, panther, Panthera onca, Felis onca	big cat, cat
+n02129165	lion, king of beasts, Panthera leo	big cat, cat
+n02129604	tiger, Panthera tigris	big cat, cat
+n02130308	cheetah, chetah, Acinonyx jubatus	big cat, cat
+n02132136	brown bear, bruin, Ursus arctos	bear
+n02133161	American black bear, black bear, Ursus americanus, Euarctos americanus	bear
+n02134084	ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus	bear
+n02134418	sloth bear, Melursus ursinus, Ursus ursinus	bear
+n02137549	mongoose	viverrine, viverrine mammal
+n02138441	meerkat, mierkat	viverrine, viverrine mammal
+n02165105	tiger beetle	beetle
+n02165456	ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle	beetle
+n02167151	ground beetle, carabid beetle	beetle
+n02168699	long-horned beetle, longicorn, longicorn beetle	beetle
+n02169497	leaf beetle, chrysomelid	beetle
+n02172182	dung beetle	scarabaeid beetle, scarabaeid, scarabaean
+n02174001	rhinoceros beetle	scarabaeid beetle, scarabaeid, scarabaean
+n02177972	weevil	beetle
+n02190166	fly	dipterous insect, two-winged insects, dipteran, dipteron
+n02206856	bee	hymenopterous insect, hymenopteran, hymenopteron, hymenopter
+n02219486	ant, emmet, pismire	hymenopterous insect, hymenopteran, hymenopteron, hymenopter
+n02226429	grasshopper, hopper	orthopterous insect, orthopteron, orthopteran
+n02229544	cricket	orthopterous insect, orthopteron, orthopteran
+n02231487	walking stick, walkingstick, stick insect	phasmid, phasmid insect
+n02233338	cockroach, roach	dictyopterous insect
+n02236044	mantis, mantid	dictyopterous insect
+n02256656	cicada, cicala	homopterous insect, homopteran
+n02259212	leafhopper	homopterous insect, homopteran
+n02264363	lacewing, lacewing fly	neuropteron, neuropteran, neuropterous insect
+n02268443	dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk	odonate
+n02268853	damselfly	odonate
+n02276258	admiral	nymphalid, nymphalid butterfly, brush-footed butterfly, four-footed butterfly
+n02277742	ringlet, ringlet butterfly	butterfly
+n02279972	monarch, monarch butterfly, milkweed butterfly, Danaus plexippus	danaid, danaid butterfly
+n02280649	cabbage butterfly	pierid, pierid butterfly
+n02281406	sulphur butterfly, sulfur butterfly	butterfly
+n02281787	lycaenid, lycaenid butterfly	butterfly
+n02317335	starfish, sea star	echinoderm
+n02319095	sea urchin	echinoderm
+n02321529	sea cucumber, holothurian	echinoderm
+n02325366	wood rabbit, cottontail, cottontail rabbit	rabbit, coney, cony
+n02326432	hare	leporid, leporid mammal
+n02328150	Angora, Angora rabbit	rabbit, coney, cony
+n02342885	hamster	rodent, gnawer
+n02346627	porcupine, hedgehog	rodent, gnawer
+n02356798	fox squirrel, eastern fox squirrel, Sciurus niger	tree squirrel
+n02361337	marmot	rodent, gnawer
+n02363005	beaver	rodent, gnawer
+n02364673	guinea pig, Cavia cobaya	cavy
+n02389026	sorrel	horse, Equus caballus
+n02391049	zebra	equine, equid
+n02395406	hog, pig, grunter, squealer, Sus scrofa	swine
+n02396427	wild boar, boar, Sus scrofa	swine
+n02397096	warthog	swine
+n02398521	hippopotamus, hippo, river horse, Hippopotamus amphibius	even-toed ungulate, artiodactyl, artiodactyl mammal
+n02403003	ox	cattle, cows, kine, oxen, Bos taurus
+n02408429	water buffalo, water ox, Asiatic buffalo, Bubalus bubalis	Old World buffalo, buffalo
+n02410509	bison	bovid
+n02412080	ram, tup	sheep
+n02415577	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis	mountain sheep
+n02417914	ibex, Capra ibex	wild goat
+n02422106	hartebeest	antelope
+n02422699	impala, Aepyceros melampus	antelope
+n02423022	gazelle	antelope
+n02437312	Arabian camel, dromedary, Camelus dromedarius	camel
+n02437616	llama	even-toed ungulate, artiodactyl, artiodactyl mammal
+n02441942	weasel	musteline mammal, mustelid, musteline
+n02442845	mink	musteline mammal, mustelid, musteline
+n02443114	polecat, fitch, foulmart, foumart, Mustela putorius	musteline mammal, mustelid, musteline
+n02443484	black-footed ferret, ferret, Mustela nigripes	musteline mammal, mustelid, musteline
+n02444819	otter	musteline mammal, mustelid, musteline
+n02445715	skunk, polecat, wood pussy	musteline mammal, mustelid, musteline
+n02447366	badger	musteline mammal, mustelid, musteline
+n02454379	armadillo	edentate
+n02457408	three-toed sloth, ai, Bradypus tridactylus	sloth, tree sloth
+n02480495	orangutan, orang, orangutang, Pongo pygmaeus	great ape, pongid
+n02480855	gorilla, Gorilla gorilla	great ape, pongid
+n02481823	chimpanzee, chimp, Pan troglodytes	great ape, pongid
+n02483362	gibbon, Hylobates lar	lesser ape
+n02483708	siamang, Hylobates syndactylus, Symphalangus syndactylus	lesser ape
+n02484975	guenon, guenon monkey	Old World monkey, catarrhine
+n02486261	patas, hussar monkey, Erythrocebus patas	Old World monkey, catarrhine
+n02486410	baboon	Old World monkey, catarrhine
+n02487347	macaque	Old World monkey, catarrhine
+n02488291	langur	Old World monkey, catarrhine
+n02488702	colobus, colobus monkey	Old World monkey, catarrhine
+n02489166	proboscis monkey, Nasalis larvatus	Old World monkey, catarrhine
+n02490219	marmoset	New World monkey, platyrrhine, platyrrhinian
+n02492035	capuchin, ringtail, Cebus capucinus	New World monkey, platyrrhine, platyrrhinian
+n02492660	howler monkey, howler	New World monkey, platyrrhine, platyrrhinian
+n02493509	titi, titi monkey	New World monkey, platyrrhine, platyrrhinian
+n02493793	spider monkey, Ateles geoffroyi	New World monkey, platyrrhine, platyrrhinian
+n02494079	squirrel monkey, Saimiri sciureus	New World monkey, platyrrhine, platyrrhinian
+n02497673	Madagascar cat, ring-tailed lemur, Lemur catta	lemur
+n02500267	indri, indris, Indri indri, Indri brevicaudatus	lemur
+n02504013	Indian elephant, Elephas maximus	elephant
+n02504458	African elephant, Loxodonta africana	elephant
+n02509815	lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens	procyonid
+n02510455	giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca	procyonid
+n02514041	barracouta, snoek	food fish
+n02526121	eel	soft-finned fish, malacopterygian
+n02536864	coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch	salmon
+n02606052	rock beauty, Holocanthus tricolor	butterfly fish
+n02607072	anemone fish	damselfish, demoiselle
+n02640242	sturgeon	ganoid, ganoid fish
+n02641379	gar, garfish, garpike, billfish, Lepisosteus osseus	ganoid, ganoid fish
+n02643566	lionfish	scorpaenid, scorpaenid fish
+n02655020	puffer, pufferfish, blowfish, globefish	plectognath, plectognath fish
+n02666196	abacus	calculator, calculating machine
+n02667093	abaya	robe
+n02669723	academic gown, academic robe, judge's robe	gown, robe
+n02672831	accordion, piano accordion, squeeze box	keyboard instrument
+n02676566	acoustic guitar	guitar
+n02687172	aircraft carrier, carrier, flattop, attack aircraft carrier	warship, war vessel, combat ship
+n02690373	airliner	airplane, aeroplane, plane
+n02692877	airship, dirigible	lighter-than-air craft
+n02699494	altar	structure, construction
+n02701002	ambulance	car, auto, automobile, machine, motorcar
+n02704792	amphibian, amphibious vehicle	motor vehicle, automotive vehicle
+n02708093	analog clock	clock
+n02727426	apiary, bee house	shed
+n02730930	apron	protective garment
+n02747177	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin	bin
+n02749479	assault rifle, assault gun	automatic rifle, automatic, machine rifle
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack	bag
+n02776631	bakery, bakeshop, bakehouse	shop, store
+n02777292	balance beam, beam	gymnastic apparatus, exerciser
+n02782093	balloon	lighter-than-air craft
+n02783161	ballpoint, ballpoint pen, ballpen, Biro	pen
+n02786058	Band Aid	adhesive bandage
+n02787622	banjo	stringed instrument
+n02788148	bannister, banister, balustrade, balusters, handrail	barrier
+n02790996	barbell	weight, free weight, exercising weight
+n02791124	barber chair	chair
+n02791270	barbershop	shop, store
+n02793495	barn	farm building
+n02794156	barometer	measuring instrument, measuring system, measuring device
+n02795169	barrel, cask	vessel
+n02797295	barrow, garden cart, lawn cart, wheelbarrow	handcart, pushcart, cart, go-cart
+n02799071	baseball	baseball equipment
+n02802426	basketball	basketball equipment
+n02804414	bassinet	baby bed, baby's bed
+n02804610	bassoon	double-reed instrument, double reed
+n02807133	bathing cap, swimming cap	cap
+n02808304	bath towel	towel
+n02808440	bathtub, bathing tub, bath, tub	vessel
+n02814533	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	car, auto, automobile, machine, motorcar
+n02814860	beacon, lighthouse, beacon light, pharos	tower
+n02815834	beaker	jar
+n02817516	bearskin, busby, shako	hat, chapeau, lid
+n02823428	beer bottle	bottle
+n02823750	beer glass	glass, drinking glass
+n02825657	bell cote, bell cot	shelter
+n02834397	bib	piece of cloth, piece of material
+n02835271	bicycle-built-for-two, tandem bicycle, tandem	bicycle, bike, wheel, cycle
+n02837789	bikini, two-piece	swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+n02840245	binder, ring-binder	protective covering, protective cover, protection
+n02841315	binoculars, field glasses, opera glasses	optical instrument
+n02843684	birdhouse	shelter
+n02859443	boathouse	shed
+n02860847	bobsled, bobsleigh, bob	sled, sledge, sleigh
+n02865351	bolo tie, bolo, bola tie, bola	necktie, tie
+n02869837	bonnet, poke bonnet	hat, chapeau, lid
+n02870880	bookcase	furniture, piece of furniture, article of furniture
+n02871525	bookshop, bookstore, bookstall	shop, store
+n02877765	bottlecap	cap
+n02879718	bow	weapon, arm, weapon system
+n02883205	bow tie, bow-tie, bowtie	necktie, tie
+n02892201	brass, memorial tablet, plaque	memorial, monument
+n02892767	brassiere, bra, bandeau	undergarment, unmentionable
+n02894605	breakwater, groin, groyne, mole, bulwark, seawall, jetty	barrier
+n02895154	breastplate, aegis, egis	armor plate, armour plate, armor plating, plate armor, plate armour
+n02906734	broom	cleaning implement, cleaning device, cleaning equipment
+n02909870	bucket, pail	vessel
+n02910353	buckle	fastener, fastening, holdfast, fixing
+n02916936	bulletproof vest	vest, waistcoat
+n02917067	bullet train, bullet	passenger train
+n02927161	butcher shop, meat market	shop, store
+n02930766	cab, hack, taxi, taxicab	car, auto, automobile, machine, motorcar
+n02939185	caldron, cauldron	pot
+n02948072	candle, taper, wax light	lamp
+n02950826	cannon	gun
+n02951358	canoe	small boat
+n02951585	can opener, tin opener	opener
+n02963159	cardigan	sweater, jumper
+n02965783	car mirror	mirror
+n02966193	carousel, carrousel, merry-go-round, roundabout, whirligig	ride
+n02966687	carpenter's kit, tool kit	kit, outfit
+n02971356	carton	box
+n02974003	car wheel	wheel
+n02977058	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM	machine
+n02978881	cassette	container
+n02979186	cassette player	electronic equipment
+n02980441	castle	fortification, munition
+n02981792	catamaran	sailboat, sailing boat
+n02988304	CD player	electronic equipment
+n02992211	cello, violoncello	bowed stringed instrument, string
+n02992529	cellular telephone, cellular phone, cellphone, cell, mobile phone	radiotelephone, radiophone, wireless telephone
+n02999410	chain	ligament
+n03000134	chainlink fence	fence, fencing
+n03000247	chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour	body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract
+n03000684	chain saw, chainsaw	power saw, saw, sawing machine
+n03014705	chest	box
+n03016953	chiffonier, commode	chest of drawers, chest, bureau, dresser
+n03017168	chime, bell, gong	percussion instrument, percussive instrument
+n03018349	china cabinet, china closet	cabinet
+n03026506	Christmas stocking	stocking
+n03028079	church, church building	place of worship, house of prayer, house of God, house of worship
+n03032252	cinema, movie theater, movie theatre, movie house, picture palace	theater, theatre, house
+n03041632	cleaver, meat cleaver, chopper	knife
+n03042490	cliff dwelling	dwelling, home, domicile, abode, habitation, dwelling house
+n03045698	cloak	covering
+n03047690	clog, geta, patten, sabot	footwear, footgear
+n03062245	cocktail shaker	shaker
+n03063599	coffee mug	mug
+n03063689	coffeepot	pot
+n03065424	coil, spiral, volute, whorl, helix	structure, construction
+n03075370	combination lock	lock
+n03085013	computer keyboard, keypad	keyboard
+n03089624	confectionery, confectionary, candy store	shop, store
+n03095699	container ship, containership, container vessel	cargo ship, cargo vessel
+n03100240	convertible	car, auto, automobile, machine, motorcar
+n03109150	corkscrew, bottle screw	bottle opener
+n03110669	cornet, horn, trumpet, trump	brass, brass instrument
+n03124043	cowboy boot	boot
+n03124170	cowboy hat, ten-gallon hat	hat, chapeau, lid
+n03125729	cradle	baby bed, baby's bed
+n03126707	crane	lifting device
+n03127747	crash helmet	helmet
+n03127925	crate	box
+n03131574	crib, cot	baby bed, baby's bed
+n03133878	Crock Pot	cooker
+n03134739	croquet ball	ball
+n03141823	crutch	staff
+n03146219	cuirass	body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract
+n03160309	dam, dike, dyke	barrier
+n03179701	desk	table
+n03180011	desktop computer	personal computer, PC, microcomputer
+n03187595	dial telephone, dial phone	telephone, phone, telephone set
+n03188531	diaper, nappy, napkin	garment
+n03196217	digital clock	clock
+n03197337	digital watch	watch, ticker
+n03201208	dining table, board	table
+n03207743	dishrag, dishcloth	piece of cloth, piece of material
+n03207941	dishwasher, dish washer, dishwashing machine	white goods
+n03208938	disk brake, disc brake	hydraulic brake, hydraulic brakes
+n03216828	dock, dockage, docking facility	landing, landing place
+n03218198	dogsled, dog sled, dog sleigh	sled, sledge, sleigh
+n03220513	dome	roof
+n03223299	doormat, welcome mat	mat
+n03240683	drilling platform, offshore rig	drill rig, drilling rig, oilrig, oil rig
+n03249569	drum, membranophone, tympan	percussion instrument, percussive instrument
+n03250847	drumstick	stick
+n03255030	dumbbell	weight, free weight, exercising weight
+n03259280	Dutch oven	oven
+n03271574	electric fan, blower	fan
+n03272010	electric guitar	guitar
+n03272562	electric locomotive	locomotive, engine, locomotive engine, railway locomotive
+n03290653	entertainment center	wall unit
+n03291819	envelope	container
+n03297495	espresso maker	coffee maker
+n03314780	face powder	makeup, make-up, war paint
+n03325584	feather boa, boa	scarf
+n03337140	file, file cabinet, filing cabinet	office furniture
+n03344393	fireboat	boat
+n03345487	fire engine, fire truck	truck, motortruck
+n03347037	fire screen, fireguard	screen
+n03355925	flagpole, flagstaff	staff
+n03372029	flute, transverse flute	woodwind, woodwind instrument, wood
+n03376595	folding chair	chair
+n03379051	football helmet	helmet
+n03384352	forklift	self-propelled vehicle
+n03388043	fountain	structure, construction
+n03388183	fountain pen	pen
+n03388549	four-poster	bed
+n03393912	freight car	car, railcar, railway car, railroad car
+n03394916	French horn, horn	brass, brass instrument
+n03400231	frying pan, frypan, skillet	pan, cooking pan
+n03404251	fur coat	coat
+n03417042	garbage truck, dustcart	truck, motortruck
+n03424325	gasmask, respirator, gas helmet	mask
+n03425413	gas pump, gasoline pump, petrol pump, island dispenser	pump
+n03443371	goblet	glass, drinking glass
+n03444034	go-kart	motor vehicle, automotive vehicle
+n03445777	golf ball	golf equipment
+n03445924	golfcart, golf cart	motor vehicle, automotive vehicle
+n03447447	gondola	boat
+n03447721	gong, tam-tam	percussion instrument, percussive instrument
+n03450230	gown	dress, frock
+n03452741	grand piano, grand	piano, pianoforte, forte-piano
+n03457902	greenhouse, nursery, glasshouse	building, edifice
+n03459775	grille, radiator grille	grate, grating
+n03461385	grocery store, grocery, food market, market	marketplace, market place, mart, market
+n03467068	guillotine	instrument of execution
+n03476684	hair slide	clip
+n03476991	hair spray	toiletry, toilet articles
+n03478589	half track	military vehicle
+n03481172	hammer	hand tool
+n03482405	hamper	basket, handbasket
+n03483316	hand blower, blow dryer, blow drier, hair dryer, hair drier	blower
+n03485407	hand-held computer, hand-held microcomputer	portable computer
+n03485794	handkerchief, hankie, hanky, hankey	piece of cloth, piece of material
+n03492542	hard disc, hard disk, fixed disk	magnetic disk, magnetic disc, disk, disc
+n03494278	harmonica, mouth organ, harp, mouth harp	free-reed instrument
+n03495258	harp	chordophone
+n03496892	harvester, reaper	farm machine
+n03498962	hatchet	ax, axe
+n03527444	holster	sheath
+n03529860	home theater, home theatre	theater, theatre, house
+n03530642	honeycomb	framework
+n03532672	hook, claw	mechanical device
+n03534580	hoopskirt, crinoline	skirt
+n03535780	horizontal bar, high bar	gymnastic apparatus, exerciser
+n03538406	horse cart, horse-cart	cart
+n03544143	hourglass	sandglass
+n03584254	iPod	stereo, stereophony, stereo system, stereophonic system
+n03584829	iron, smoothing iron	home appliance, household appliance
+n03590841	jack-o'-lantern	lantern
+n03594734	jean, blue jean, denim	workwear
+n03594945	jeep, landrover	car, auto, automobile, machine, motorcar
+n03595614	jersey, T-shirt, tee shirt	shirt
+n03598930	jigsaw puzzle	puzzle
+n03599486	jinrikisha, ricksha, rickshaw	cart
+n03602883	joystick	control, controller
+n03617480	kimono	robe
+n03623198	knee pad	protective garment
+n03627232	knot	fastener, fastening, holdfast, fixing
+n03630383	lab coat, laboratory coat	coat
+n03633091	ladle	vessel
+n03637318	lampshade, lamp shade	shade
+n03642806	laptop, laptop computer	portable computer
+n03649909	lawn mower, mower	garden tool, lawn tool
+n03657121	lens cap, lens cover	cap
+n03658185	letter opener, paper knife, paperknife	knife
+n03661043	library	building, edifice
+n03662601	lifeboat	sea boat
+n03666591	lighter, light, igniter, ignitor	device
+n03670208	limousine, limo	car, auto, automobile, machine, motorcar
+n03673027	liner, ocean liner	passenger ship
+n03676483	lipstick, lip rouge	makeup, make-up, war paint
+n03680355	Loafer	shoe
+n03690938	lotion	toiletry, toilet articles
+n03691459	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system	electro-acoustic transducer
+n03692522	loupe, jeweler's loupe	hand glass, simple microscope, magnifying glass
+n03697007	lumbermill, sawmill	factory, mill, manufacturing plant, manufactory
+n03706229	magnetic compass	compass
+n03709823	mailbag, postbag	bag
+n03710193	mailbox, letter box	box
+n03710637	maillot	tights, leotards
+n03710721	maillot, tank suit	swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+n03717622	manhole cover	top, cover
+n03720891	maraca	percussion instrument, percussive instrument
+n03721384	marimba, xylophone	percussion instrument, percussive instrument
+n03724870	mask	covering
+n03729826	matchstick	stick
+n03733131	maypole	post
+n03733281	maze, labyrinth	system
+n03733805	measuring cup	measure
+n03742115	medicine chest, medicine cabinet	cabinet
+n03743016	megalith, megalithic structure	memorial, monument
+n03759954	microphone, mike	electro-acoustic transducer
+n03761084	microwave, microwave oven	kitchen appliance
+n03763968	military uniform	uniform
+n03764736	milk can	can, tin, tin can
+n03769881	minibus	bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+n03770439	miniskirt, mini	skirt
+n03770679	minivan	passenger van
+n03773504	missile	rocket, projectile
+n03775071	mitten	glove
+n03775546	mixing bowl	bowl
+n03776460	mobile home, manufactured home	trailer, house trailer
+n03777568	Model T	car, auto, automobile, machine, motorcar
+n03777754	modem	electronic equipment
+n03781244	monastery	religious residence, cloister
+n03782006	monitor	electronic equipment
+n03785016	moped	minibike, motorbike
+n03786901	mortar	vessel
+n03787032	mortarboard	cap
+n03788195	mosque	place of worship, house of prayer, house of God, house of worship
+n03788365	mosquito net	screen
+n03791053	motor scooter, scooter	wheeled vehicle
+n03792782	mountain bike, all-terrain bike, off-roader	bicycle, bike, wheel, cycle
+n03792972	mountain tent	tent, collapsible shelter
+n03793489	mouse, computer mouse	electronic device
+n03794056	mousetrap	trap
+n03796401	moving van	van
+n03803284	muzzle	restraint, constraint
+n03804744	nail	fastener, fastening, holdfast, fixing
+n03814639	neck brace	brace
+n03814906	necklace	jewelry, jewellery
+n03825788	nipple	cap
+n03832673	notebook, notebook computer	portable computer
+n03837869	obelisk	column, pillar
+n03838899	oboe, hautboy, hautbois	double-reed instrument, double reed
+n03840681	ocarina, sweet potato	wind instrument, wind
+n03841143	odometer, hodometer, mileometer, milometer	meter
+n03843555	oil filter	filter
+n03854065	organ, pipe organ	wind instrument, wind
+n03857828	oscilloscope, scope, cathode-ray oscilloscope, CRO	electronic equipment
+n03866082	overskirt	skirt
+n03868242	oxcart	cart
+n03868863	oxygen mask	breathing device, breathing apparatus, breathing machine, ventilator
+n03871628	packet	package, parcel
+n03873416	paddle, boat paddle	oar
+n03874293	paddlewheel, paddle wheel	wheel
+n03874599	padlock	lock
+n03876231	paintbrush	applicator, applier
+n03877472	pajama, pyjama, pj's, jammies	nightwear, sleepwear, nightclothes
+n03877845	palace	residence
+n03884397	panpipe, pandean pipe, syrinx	pipe
+n03887697	paper towel	towel
+n03888257	parachute, chute	rescue equipment
+n03888605	parallel bars, bars	gymnastic apparatus, exerciser
+n03891251	park bench	bench
+n03891332	parking meter	timer
+n03895866	passenger car, coach, carriage	car, railcar, railway car, railroad car
+n03899768	patio, terrace	area
+n03902125	pay-phone, pay-station	telephone, phone, telephone set
+n03903868	pedestal, plinth, footstall	support
+n03908618	pencil box, pencil case	box
+n03908714	pencil sharpener	sharpener
+n03916031	perfume, essence	toiletry, toilet articles
+n03920288	Petri dish	dish
+n03924679	photocopier	duplicator, copier
+n03929660	pick, plectrum, plectron	device
+n03929855	pickelhaube	helmet
+n03930313	picket fence, paling	fence, fencing
+n03930630	pickup, pickup truck	truck, motortruck
+n03933933	pier	support
+n03935335	piggy bank, penny bank	savings bank, coin bank, money box, bank
+n03937543	pill bottle	bottle
+n03938244	pillow	cushion
+n03942813	ping-pong ball	ball
+n03944341	pinwheel	wheel
+n03947888	pirate, pirate ship	ship
+n03950228	pitcher, ewer	vessel
+n03954731	plane, carpenter's plane, woodworking plane	hand tool
+n03956157	planetarium	building, edifice
+n03958227	plastic bag	bag
+n03961711	plate rack	rack
+n03967562	plow, plough	tool
+n03970156	plunger, plumber's helper	hand tool
+n03976467	Polaroid camera, Polaroid Land camera	camera, photographic camera
+n03976657	pole	rod
+n03977966	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	van
+n03980874	poncho	cloak
+n03982430	pool table, billiard table, snooker table	table
+n03983396	pop bottle, soda bottle	bottle
+n03991062	pot, flowerpot	container
+n03992509	potter's wheel	wheel
+n03995372	power drill	drill
+n03998194	prayer rug, prayer mat	rug, carpet, carpeting
+n04004767	printer	printer, printing machine
+n04005630	prison, prison house	correctional institution
+n04008634	projectile, missile	weapon, arm, weapon system
+n04009552	projector	optical instrument
+n04019541	puck, hockey puck	disk, disc
+n04023962	punching bag, punch bag, punching ball, punchball	ball
+n04026417	purse	bag
+n04033901	quill, quill pen	pen
+n04033995	quilt, comforter, comfort, puff	bedclothes, bed clothing, bedding
+n04037443	racer, race car, racing car	car, auto, automobile, machine, motorcar
+n04039381	racket, racquet	sports implement
+n04040759	radiator	mechanism
+n04041544	radio, wireless	communication system
+n04044716	radio telescope, radio reflector	astronomical telescope
+n04049303	rain barrel	cistern
+n04065272	recreational vehicle, RV, R.V.	self-propelled vehicle
+n04067472	reel	winder
+n04069434	reflex camera	camera, photographic camera
+n04070727	refrigerator, icebox	white goods
+n04074963	remote control, remote	device
+n04081281	restaurant, eating house, eating place, eatery	building, edifice
+n04086273	revolver, six-gun, six-shooter	pistol, handgun, side arm, shooting iron
+n04090263	rifle	firearm, piece, small-arm
+n04099969	rocking chair, rocker	chair
+n04111531	rotisserie	oven
+n04116512	rubber eraser, rubber, pencil eraser	eraser
+n04118538	rugby ball	ball
+n04118776	rule, ruler	measuring stick, measure, measuring rod
+n04120489	running shoe	shoe
+n04125021	safe	strongbox, deedbox
+n04127249	safety pin	pin
+n04131690	saltshaker, salt shaker	shaker
+n04133789	sandal	shoe
+n04136333	sarong	skirt
+n04141076	sax, saxophone	single-reed instrument, single-reed woodwind
+n04141327	scabbard	sheath
+n04141975	scale, weighing machine	measuring instrument, measuring system, measuring device
+n04146614	school bus	bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+n04147183	schooner	sailing vessel, sailing ship
+n04149813	scoreboard	signboard, sign
+n04152593	screen, CRT screen	display, video display
+n04153751	screw	fastener, fastening, holdfast, fixing
+n04154565	screwdriver	hand tool
+n04162706	seat belt, seatbelt	safety belt, life belt, safety harness
+n04179913	sewing machine	textile machine
+n04192698	shield, buckler	armor, armour
+n04200800	shoe shop, shoe-shop, shoe store	shop, store
+n04201297	shoji	screen, cover, covert, concealment
+n04204238	shopping basket	basket, handbasket
+n04204347	shopping cart	handcart, pushcart, cart, go-cart
+n04208210	shovel	hand tool
+n04209133	shower cap	cap
+n04209239	shower curtain	curtain, drape, drapery, mantle, pall
+n04228054	ski	runner
+n04229816	ski mask	face mask
+n04235860	sleeping bag	bag
+n04238763	slide rule, slipstick	analog computer, analogue computer
+n04239074	sliding door	door
+n04243546	slot, one-armed bandit	slot machine, coin machine
+n04251144	snorkel	breathing device, breathing apparatus, breathing machine, ventilator
+n04252077	snowmobile	tracked vehicle
+n04252225	snowplow, snowplough	motor vehicle, automotive vehicle
+n04254120	soap dispenser	dispenser
+n04254680	soccer ball	ball
+n04254777	sock	hosiery, hose
+n04258138	solar dish, solar collector, solar furnace	reflector
+n04259630	sombrero	hat, chapeau, lid
+n04263257	soup bowl	bowl
+n04264628	space bar	key
+n04265275	space heater	heater, warmer
+n04266014	space shuttle	spacecraft, ballistic capsule, space vehicle
+n04270147	spatula	turner, food turner
+n04273569	speedboat	motorboat, powerboat
+n04275548	spider web, spider's web	web, entanglement
+n04277352	spindle	stick
+n04285008	sports car, sport car	car, auto, automobile, machine, motorcar
+n04286575	spotlight, spot	lamp
+n04296562	stage	platform
+n04310018	steam locomotive	locomotive, engine, locomotive engine, railway locomotive
+n04311004	steel arch bridge	bridge, span
+n04311174	steel drum	percussion instrument, percussive instrument
+n04317175	stethoscope	medical instrument
+n04325704	stole	scarf
+n04326547	stone wall	fence, fencing
+n04328186	stopwatch, stop watch	timer
+n04330267	stove	heater, warmer
+n04332243	strainer	filter
+n04335435	streetcar, tram, tramcar, trolley, trolley car	self-propelled vehicle
+n04336792	stretcher	litter
+n04344873	studio couch, day bed	convertible, sofa bed
+n04346328	stupa, tope	shrine
+n04347754	submarine, pigboat, sub, U-boat	submersible, submersible warship
+n04350905	suit, suit of clothes	garment
+n04355338	sundial	timepiece, timekeeper, horologe
+n04355933	sunglass	converging lens, convex lens
+n04356056	sunglasses, dark glasses, shades	spectacles, specs, eyeglasses, glasses
+n04357314	sunscreen, sunblock, sun blocker	cream, ointment, emollient
+n04366367	suspension bridge	bridge, span
+n04367480	swab, swob, mop	cleaning implement, cleaning device, cleaning equipment
+n04370456	sweatshirt	pullover, slipover
+n04371430	swimming trunks, bathing trunks	swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+n04371774	swing	mechanical device
+n04372370	switch, electric switch, electrical switch	control, controller
+n04376876	syringe	medical instrument
+n04380533	table lamp	lamp
+n04389033	tank, army tank, armored combat vehicle, armoured combat vehicle	armored vehicle, armoured vehicle
+n04392985	tape player	electronic equipment
+n04398044	teapot	pot
+n04399382	teddy, teddy bear	plaything, toy
+n04404412	television, television system	telecommunication system, telecom system, telecommunication equipment, telecom equipment
+n04409515	tennis ball	ball
+n04417672	thatch, thatched roof	roof
+n04418357	theater curtain, theatre curtain	curtain, drape, drapery, mantle, pall
+n04423845	thimble	cap
+n04428191	thresher, thrasher, threshing machine	farm machine
+n04429376	throne	chair of state
+n04435653	tile roof	roof
+n04442312	toaster	kitchen appliance
+n04443257	tobacco shop, tobacconist shop, tobacconist	shop, store
+n04447861	toilet seat	seat
+n04456115	torch	light, light source
+n04458633	totem pole	column, pillar
+n04461696	tow truck, tow car, wrecker	truck, motortruck
+n04462240	toyshop	shop, store
+n04465501	tractor	self-propelled vehicle
+n04467665	trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi	truck, motortruck
+n04476259	tray	receptacle
+n04479046	trench coat	raincoat, waterproof
+n04482393	tricycle, trike, velocipede	wheeled vehicle
+n04483307	trimaran	sailboat, sailing boat
+n04485082	tripod	rack, stand
+n04486054	triumphal arch	arch
+n04487081	trolleybus, trolley coach, trackless trolley	bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+n04487394	trombone	brass, brass instrument
+n04493381	tub, vat	vessel
+n04501370	turnstile	gate
+n04505470	typewriter keyboard	keyboard
+n04507155	umbrella	canopy
+n04509417	unicycle, monocycle	wheeled vehicle
+n04515003	upright, upright piano	piano, pianoforte, forte-piano
+n04517823	vacuum, vacuum cleaner	home appliance, household appliance
+n04522168	vase	jar
+n04523525	vault	roof
+n04525038	velvet	fabric, cloth, material, textile
+n04525305	vending machine	slot machine, coin machine
+n04532106	vestment	gown, robe
+n04532670	viaduct	bridge, span
+n04536866	violin, fiddle	bowed stringed instrument, string
+n04540053	volleyball	ball
+n04542943	waffle iron	kitchen appliance
+n04548280	wall clock	clock
+n04548362	wallet, billfold, notecase, pocketbook	case
+n04550184	wardrobe, closet, press	furniture, piece of furniture, article of furniture
+n04552348	warplane, military plane	heavier-than-air craft
+n04553703	washbasin, handbasin, washbowl, lavabo, wash-hand basin	basin
+n04554684	washer, automatic washer, washing machine	white goods
+n04557648	water bottle	bottle
+n04560804	water jug	jug
+n04562935	water tower	reservoir
+n04579145	whiskey jug	jug
+n04579432	whistle	acoustic device
+n04584207	wig	hairpiece, false hair, postiche
+n04589890	window screen	screen
+n04590129	window shade	window blind
+n04591157	Windsor tie	necktie, tie
+n04591713	wine bottle	bottle
+n04592741	wing	airfoil, aerofoil, control surface, surface
+n04596742	wok	pan, cooking pan
+n04597913	wooden spoon	spoon
+n04599235	wool, woolen, woollen	fabric, cloth, material, textile
+n04604644	worm fence, snake fence, snake-rail fence, Virginia fence	rail fence
+n04606251	wreck	ship
+n04612504	yawl	small boat
+n04613696	yurt	dwelling, home, domicile, abode, habitation, dwelling house
+n06359193	web site, website, internet site, site	computer, computing machine, computing device, data processor, electronic computer, information processing system
+n06596364	comic book	magazine, mag
+n06785654	crossword puzzle, crossword	puzzle
+n06794110	street sign	sign
+n06874185	traffic light, traffic signal, stoplight	light
+n07248320	book jacket, dust cover, dust jacket, dust wrapper	jacket
+n07565083	menu	fare
+n07579787	plate	entree, main course
+n07583066	guacamole	dip
+n07584110	consomme	soup
+n07590611	hot pot, hotpot	stew
+n07613480	trifle	pudding, pud
+n07614500	ice cream, icecream	frozen dessert
+n07615774	ice lolly, lolly, lollipop, popsicle	frozen dessert
+n07684084	French loaf	loaf of bread, loaf
+n07693725	bagel, beigel	bun, roll
+n07695742	pretzel	cracker
+n07697313	cheeseburger	hamburger, beefburger, burger
+n07697537	hotdog, hot dog, red hot	sandwich
+n07711569	mashed potato	potato, white potato, Irish potato, murphy, spud, tater
+n07714571	head cabbage	cabbage, chou
+n07714990	broccoli	cruciferous vegetable
+n07715103	cauliflower	cruciferous vegetable
+n07716358	zucchini, courgette	summer squash
+n07716906	spaghetti squash	summer squash
+n07717410	acorn squash	winter squash
+n07717556	butternut squash	winter squash
+n07718472	cucumber, cuke	vegetable, veggie, veg
+n07718747	artichoke, globe artichoke	vegetable, veggie, veg
+n07720875	bell pepper	sweet pepper
+n07730033	cardoon	vegetable, veggie, veg
+n07734744	mushroom	vegetable, veggie, veg
+n07742313	Granny Smith	eating apple, dessert apple
+n07745940	strawberry	berry
+n07747607	orange	citrus, citrus fruit, citrous fruit
+n07749582	lemon	citrus, citrus fruit, citrous fruit
+n07753113	fig	edible fruit
+n07753275	pineapple, ananas	edible fruit
+n07753592	banana	edible fruit
+n07754684	jackfruit, jak, jack	edible fruit
+n07760859	custard apple	edible fruit
+n07768694	pomegranate	edible fruit
+n07802026	hay	fodder
+n07831146	carbonara	spaghetti sauce, pasta sauce
+n07836838	chocolate sauce, chocolate syrup	sauce
+n07860988	dough	concoction, mixture, intermixture
+n07871810	meat loaf, meatloaf	loaf of bread, loaf
+n07873807	pizza, pizza pie	dish
+n07875152	potpie	dish
+n07880968	burrito	dish
+n07892512	red wine	wine, vino
+n07920052	espresso	coffee, java
+n07930864	cup	punch
+n07932039	eggnog	punch
+n09193705	alp	mountain, mount
+n09229709	bubble	globule
+n09246464	cliff, drop, drop-off	geological formation, formation
+n09256479	coral reef	reef
+n09288635	geyser	spring, fountain, outflow, outpouring, natural spring
+n09332890	lakeside, lakeshore	shore
+n09399592	promontory, headland, head, foreland	natural elevation, elevation
+n09421951	sandbar, sand bar	bar
+n09428293	seashore, coast, seacoast, sea-coast	shore
+n09468604	valley, vale	natural depression, depression
+n09472597	volcano	mountain, mount
+n09835506	ballplayer, baseball player	player, participant
+n10148035	groom, bridegroom	participant
+n10565667	scuba diver	diver, frogman, underwater diver
+n11879895	rapeseed	oilseed, oil-rich seed
+n11939491	daisy	flower
+n12057211	yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum	lady's slipper, lady-slipper, ladies' slipper, slipper orchid
+n12144580	corn	kernel
+n12267677	acorn	fruit
+n12620546	hip, rose hip, rosehip	fruit
+n12768682	buckeye, horse chestnut, conker	seed
+n12985857	coral fungus	fungus
+n12998815	agaric	basidiomycete, basidiomycetous fungi
+n13037406	gyromitra	fungus
+n13040303	stinkhorn, carrion fungus	fungus
+n13044778	earthstar	fungus
+n13052670	hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa	fungus
+n13054560	bolete	fungus
+n13133613	ear, spike, capitulum	fruit
+n15075141	toilet tissue, toilet paper, bathroom tissue	tissue, tissue paper
